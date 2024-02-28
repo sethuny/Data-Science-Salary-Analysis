@@ -41,3 +41,9 @@ Special thanks to Aman Chauhan for providing the dataset used in this analysis.w
 License:
 
 This project is licensed under the MIT License. You are free to modify and distribute the code, with attribution.
+
+## Contact Information
+
+- **Name**: Sethunya S. Naolakgosi
+- **Email**: sethunyasethunya46@gmail.com
+- **Date**: 27/02/2024
